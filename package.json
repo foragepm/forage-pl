@@ -1,9 +1,10 @@
 {
   "name": "forage-pl",
   "version": "1.0.0",
-  "description": "Scripts for importing Protocol Labs dependencies into Forage",
+  "description": "Scripts for importing and seeding Protocol Labs packages and dependencies in Forage",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Andrew Nesbitt",
