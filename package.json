@@ -1,0 +1,16 @@
+{
+  "name": "forage-pl",
+  "version": "1.0.0",
+  "description": "Scripts for importing Protocol Labs dependencies into Forage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Nesbitt",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.0",
+    "foragepm": "foragepm/forage",
+    "node-fetch": "^2.6.1"
+  }
+}
