@@ -1,6 +1,6 @@
 # forage-pl
 
-Scripts for importing and seeding Protocol Labs packages and dependencies in Forage
+Scripts for importing and seeding [Protocol Labs](https://github.com/protocol/) packages and dependencies in Forage
 
 ## Installation
 
@@ -12,7 +12,7 @@ npm ci
 
 ## Usage
 
-Import all IPFS and Filecoin packages all dependencies of protocol labs repositories into Forage
+Import all [IPFS](https://github.com/ipfs) and [Filecoin](https://github.com/filecoin-project) packages all dependencies of Protocol Labs repositories into Forage
 
 ```shell
 npm start
